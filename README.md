@@ -20,13 +20,6 @@ This allows operators to better understand **why guardrails blocked, modified, o
 
 ---
 
-## 📁 Project Structure
-
-```
-
-org.wso2.carbon.custom.publisher
-└── CustomDataProvider.java
-
 ## 📦 Example Guardrail Event
 
 The guardrail mediator adds JSON like this:
